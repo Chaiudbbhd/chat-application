@@ -6,7 +6,7 @@ Maven - 3.x.x
 Steps to Setup
 1. Clone the application
 
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git clone https://github.com/Chaiudbbhd/chat-application.git
 2. Build and run the app using maven
 
 cd spring-boot-websocket-chat-demo

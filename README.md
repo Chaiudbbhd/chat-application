@@ -8,7 +8,7 @@ Steps to Setup
  
 2. Build and run the app using maven
 
-3.cd spring-boot-websocket-chat-demo
+3.cd chat-application_using-spring_boot
 
 4.mvn package
 
